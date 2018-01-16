@@ -4,7 +4,8 @@ using UnityEngine;
 using UnityEngine.UI;
 
 public class Classic : MonoBehaviour {
-
+/* This script handles player movement, collisions, and invincibility */
+	
 	//Variable for movement speed
 	float shipspeed = 10;
 	//Variable to hold player's position.
