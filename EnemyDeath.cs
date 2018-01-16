@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class EnemyDeath : MonoBehaviour {
-
+/* Script that handles enemy death */
+	
 	//Object used for explosion animation
 	public GameObject explosion;
 	GameObject explosionclone;
