@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class GameManager : MonoBehaviour {
+	/* Script that allows the player to pause and unpause the game */
 
 	//A bool that determines if the game is paused
 	private bool paused;
