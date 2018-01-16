@@ -34,7 +34,7 @@ public class Classic : MonoBehaviour {
 	float Shieldtimer;
 	int Shieldtimerint;
 	Text Countdowntext;
-	public GameObject Countdowntimer;
+	public GameObject Countdowntimer; 
 
 	void Awake()
 	{
